@@ -1,0 +1,9 @@
+{
+  "name": "abi-decoder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "abi-decoder": "DeltaBalances/abi-decoder"
+  }
+}
